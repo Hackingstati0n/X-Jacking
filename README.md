@@ -125,5 +125,3 @@ Esta ferramenta é destinada apenas para **fins educacionais** e **testes de seg
 ![print](https://github.com/user-attachments/assets/9f1159eb-7c73-47eb-8e7e-3d6ab27dc209)
 
 [Download!](https://github.com/Hackingstati0n/X-Jacking/releases/tag/Binario)
-
-
