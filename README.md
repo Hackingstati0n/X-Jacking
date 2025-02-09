@@ -74,8 +74,8 @@ O **X-Jacking** percorre uma lista de sites e verifica se o cabeçalho `X-Frame-
 
 ## 📖 Referências de Segurança
 
-### 🛡️ OWASP - A05:2021 (Segurança de Controle de Acesso)
-A falta de proteção contra Clickjacking está relacionada à categoria **OWASP A05:2021 - Segurança de Controle de Acesso**. Aplicativos que permitem serem embutidos em iframes sem restrições podem levar a ataques de Clickjacking.
+### 🛡️ OWASP - A05:2021 (Security Misconfiguration)
+A falta de proteção contra Clickjacking está relacionada à categoria **OWASP A05:2021 - Security Misconfiguration**. Aplicativos que permitem serem embutidos em iframes sem restrições podem levar a ataques de Clickjacking.
 
 🔗 [OWASP A05:2021 - Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
