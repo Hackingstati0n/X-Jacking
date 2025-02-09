@@ -121,7 +121,7 @@ Sinta-se à vontade para abrir **Issues** e enviar **Pull Requests** com melhori
 ## ⚠️ Aviso Legal
 Esta ferramenta é destinada apenas para **fins educacionais** e **testes de segurança autorizados**. O uso indevido desta ferramenta para acessar sistemas sem permissão é ilegal e pode resultar em processos criminais. O autor não se responsabiliza pelo mau uso desta ferramenta.
 
-## Verão compilada com interface grafica: 
-![Captura de tela 2025-02-09 132310](https://github.com/user-attachments/assets/8867cb37-a3e5-4b16-be0a-f775b9f4fc5a)
+[## Verão compilada com interface grafica: 
+](https://github.com/Hackingstati0n/X-Jacking/releases/tag/Binario)![Captura de tela 2025-02-09 132310](https://github.com/user-attachments/assets/8867cb37-a3e5-4b16-be0a-f775b9f4fc5a)
 
 
