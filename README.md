@@ -1,5 +1,7 @@
 # X-Jacking - Ferramenta de Identificação de Clickjacking
 
+![image](https://github.com/user-attachments/assets/60eb483b-7e69-4615-9fc0-87ed1a3244e5)
+
 ## Descrição
 O **X-Jacking** é uma ferramenta desenvolvida para identificar vulnerabilidades de **Clickjacking**, verificando se um site possui a proteção adequada através do cabeçalho `X-Frame-Options`. Essa falha pode permitir que atacantes manipulem iframes para capturar interações do usuário em aplicações web, levando a ataques de roubo de credenciais, engenharia social e comprometimento da sessão.
 
